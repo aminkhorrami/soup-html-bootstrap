@@ -1,0 +1,19 @@
+{
+  "name": "soup-html-bootstrap",
+  "version": "1.0.0",
+  "description": "a sample html theme",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminkhorrami/soup-html-bootstrap.git"
+  },
+  "author": "amin khorrrami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminkhorrami/soup-html-bootstrap/issues"
+  },
+  "homepage": "https://github.com/aminkhorrami/soup-html-bootstrap#readme"
+}
