@@ -1154,10 +1154,10 @@ img {
 }
 .menu-sample .title {
   position: absolute;
-  bottom: 4.5rem;
-  right: 4.5rem;
+  bottom: 2.5rem;
+  right: 2.5rem;
   color: #fff;
-  font-size: 5.5rem;
+  font-size: 4.5rem;
   font-weight: 100;
   margin-bottom: 0;
 }
@@ -1177,7 +1177,7 @@ img {
   margin-bottom: 0;
 }
 .menu-sample-carousel .menu-sample:nth-child(2n + 1) {
-  top: 10px;
+  /* top: 10px; */
 }
 .menu-sample-carousel .slick-list {
   overflow: visible;
@@ -1258,7 +1258,7 @@ img {
   position: absolute;
   bottom: 3rem;
   right: 3rem;
-  font-family: "themify";
+  font-family: "themify-icons";
   content: "\e64b";
   display: inline-block;
   font-size: 3rem;

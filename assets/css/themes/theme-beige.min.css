@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Oswald|Raleway:100,200,400,500");
+
+/* @font-face {
+  font-family: "Raleway";
+  src: url("/assets/fonts/nintom/Raleway-Medium.ttf");
+} */
 html {
   font-size: 14px;
 }
